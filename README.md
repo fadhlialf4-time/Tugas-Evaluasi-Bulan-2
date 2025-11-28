@@ -5,4 +5,8 @@ Pada kesempatan kali ini, saya ingin menjelaskan mengenai project yang saya buat
 
 SmartNotes, adalah aplikasi catatan sederhana namun modern yang memiliki fitur seperti membuat catatan baru, meanmpilkan daftar catatan, menghapus catatan tertentu, dan mengaktifkan mode gelap.
 
+Link menuju SmartNotes :
 https://tugas-evaluasi-bulan-2.vercel.app/
+
+Link YouTube :
+https://youtu.be/5q8bh1L-k04?si=Khugr9pGlEcZ5DhP
